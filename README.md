@@ -6,6 +6,6 @@ Specify XCompose sequences in a simple language and compile them to .XCompose fi
 
 To update 
 
- cat Diacritics Math Other | ./XCompile < UnicodeMath > ~/.XCompose && setxkbmap
+ cat Diacritics Math Other | ./XCompile > ~/.XCompose && setxkbmap
 
 
