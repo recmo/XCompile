@@ -41,9 +41,6 @@ XComposeNames = {
 	u"↓": "Down",
 }
 
-# To update:
-# ./XCompile < UnicodeMath > ~/.XCompose && setxkbmap
-
 def XComposeSequence(s, target):
 	seq = "<Multi_key> "
 	for c in s:

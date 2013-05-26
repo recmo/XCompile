@@ -1,125 +1,3 @@
-# http://www.cs.sfu.ca/~ggbaker/reference/characters/#single
-# http://tlt.its.psu.edu/suggestions/international/bylanguage/mathchart.html
-
-´	``
-‘	<'
-’	>'
-“	<"
-”	>"
-〃	''
-„	,,
-§	so
-№	No
-¿	??
-¡	!!
-‽	?!
-⸘	!?
-™	tm
-℠	sm
-®	or
-©	oc
-℗	op
-# æ	ae
-‰	%0 
-‱	%00
-
-❤	<3
-‖	|| 
-
-
-#
-# Diacritic latin
-#
-
-# Acute
-Á	'A 
-É	'E
-Í	'I
-Ó	'O
-Ú	'U
-Ý	'Y
-Ć	'C
-Ǽ	'AE
-Ǿ	'/O
-Ǵ	'G
-Ḱ	'K
-Ĺ	'L
-Ḿ	'M
-Ń	'N
-Ṕ	'P
-Ŕ	'R
-Ś	'S
-Ẃ	'W
-Ź	'Z
-á	'a 
-é	'e
-í	'i
-ó	'o
-ú	'u
-ý	'y
-ǽ	'ae
-ǿ	'/o
-ć	'c
-ǵ	'g
-ḱ	'k
-ĺ	'l
-ḿ	'm
-ń	'n
-ṕ	'p
-ŕ	'r
-ś	's
-ẃ	'w
-ź	'z
-
-# Grave
-À	`A
-È	`E
-Ì	`I
-Ǹ	`N
-Ò	`O
-Ù	`U
-Ẁ	`W
-Ỳ	`Y
-à	`a
-è	`e
-ì	`i
-ǹ	`n
-ò	`o
-ù	`u
-ẁ	`w
-ỳ	`y
-
-# Diaeresis (trema, umlaut)
-Ä	"A
-Ë	"E
-Ḧ	"H
-Ï	"I
-N̈	"N
-Ö	"O
-T̈	"T
-Ü	"U
-Ẅ	"W
-Ẍ	"X
-Ÿ	"Y
-ä	"a
-ë	"e
-ḧ	"h
-ï	"i
-n̈	"n
-ö	"o
-ẗ	"t
-ü	"u
-ẅ	"w
-ẍ	"x
-ÿ	"y
-
-# Other
-ô	^o
-ß	ss
-Č	vC
-ñ	~n
-
-
 
 # Fractions
 ⅟	1/ 
@@ -184,88 +62,8 @@ n̈	"n
 ᵤ	_u
 ᵥ	_v
 ₓ	_x
-# ᵦ ᵧ ᵨ ᵩ ᵪ
 ₔ	_d
 
-
-# Ellipsis
-…	..
-⋯	-..
-⋮	|..
-⋰	/..
-⋱	\..
-
-# Dashes
-–	-- 
-—	---
-
-# Currency
-€	C=
-
-# Arrows
-#	←	↑	→	↓	↔	↕	↖	↗	↘	↙	↚	↛	↜	↝	↞	↟
-#	↠	↡	↢	↣	↤	↥	↦	↧	↨	↩	↪	↫	↬	↭	↮	↯
-#	↰	↱	↲	↳	↴	↵	↶	↷	↸	↹	↺	↻	↼	↽	↾	↿
-#	⇀	⇁	⇂	⇃	⇄	⇅	⇆	⇇	⇈	⇉	⇊	⇋	⇌	⇍	⇎	⇏
-#	⇐	⇑	⇒	⇓	⇔	⇕	⇖	⇗	⇘	⇙	⇚	⇛	⇜	⇝	⇞	⇟
-#	⇠	⇡	⇢	⇣	⇤	⇥	⇦	⇧	⇨	⇩	⇪	⇫	⇬	⇭	⇮	⇯
-#	⇰	⇱	⇲	⇳	⇴	⇵	⇶	⇷	⇸	⇹	⇺	⇻	⇼	⇽	⇾	⇿
-←	← 
-↑	↑ 
-→	→ 
-↓	↓ 
-↔	←-→
-↕	↑-↓
-↖	←↑
-↖	↑←
-↗	→↑
-↗	↑→
-↘	→↓
-↘	↓→
-↙	←↓
-↙	↓←
-⇆	←→
-⇇	←←
-⇈	↑↑
-⇉	→→
-⇊	↓↓
-⇄	→←
-⇵	↓↑
-⇅	↑↓
-⇶	3→
-↩	c←
-↪	c→
-↤	←|
-↦	|→
-↢	←<
-↣	>→
-↞	<←
-↠	→>
-⤖	>→>
-
-⇐	=← 
-⇑	=↑ 
-⇒	=→ 
-⇓	=↓ 
-⇔	←=→
-⇕	↑=↓
-⇖	=←↑
-⇖	=↑←
-⇗	=→↑
-⇗	=↑→
-⇘	=→↓
-⇘	=↓→
-⇙	=←↓
-⇙	=↓←
-⇚	←-=
-⇛	→-=
-
-⇠	←.
-⇡	↑.
-⇢	→.
-⇣	↓.
-
-⏚	↓=
 
 # Maths
 #	∀	∁	∂	∃	∄	∅	∆	∇	∈	∉	∊	∋	∌	∍	∎	∏
@@ -421,44 +219,73 @@ n̈	"n
 ℑ	Ii
 ℜ	Rr
 
+# Blackboard Bold
+# See http://www.w3.org/TR/MathML2/double-struck.html
+#	𝔸	𝔹	ℂ	𝔻	𝔼	𝔽	𝔾	ℍ	𝕀	𝕁	𝕂	𝕃	𝕄	ℕ	𝕆	ℙ
+#	ℚ	ℝ	𝕊	𝕋	𝕌	𝕍	𝕎	𝕏	𝕐	ℤ	𝕒	𝕓	𝕔	𝕕	𝕖	𝕗
+#	𝕘	𝕙	𝕚	𝕛	𝕜	𝕝	𝕞	𝕟	𝕠	𝕡	𝕢	𝕣	𝕤	𝕥	𝕦	𝕧
+#	𝕨	𝕩	𝕪	𝕫	𝟘	𝟙	𝟚	𝟛	𝟜	𝟝	𝟞	𝟟	𝟠	𝟡
+𝔸	BBA
+𝔹	BBB
+ℂ	CC
+𝔻	BBD
+𝔼	BBE
+𝔽	FF
+𝔾	BBG
+ℍ	HH
+𝕀	II
+𝕁	JJ
+𝕂	KK
+𝕃	BBL
+𝕄	MM
+ℕ	NN
+𝕆	BBO
+ℙ	PP
+ℝ	RR
+ℚ	QQ
+𝕊	BBS
+𝕋	TT
+𝕌	BBU
+𝕍	VV
+𝕎	WW
+𝕏	BBX
+𝕐	YY
+ℤ	ZZ
 
-# Roman upercase + lower case variants:
-# 	normal
-# b	bold
-# i	italic
-# bi	bold italic
-# s	script
-# bs	bold script
-# f	fraktur
-# ds	double-struck
-# bf	bold fraktur
-# s	sans-serif
-# sb	sans-serif bold
-# si	sans-serif italic
-# sbi	sans-serif bold italic
-# ms	mono-space
-
-# Greek uppercase + lowecase variants
-# g	normal
-# gb	bold
-# gi	italic
-# gbi	bold italic
-# gsb	sans-serif bold
-# gsbi	sans-serif bold italic
-
-# Digits
-# normal
-# bold
-# double-struck
-# sans-serif
-# sans-serif bold
-# mono-space
-
-
-# Script: ℛℯ𝓂𝒸ℴ
-# Bold script: 𝓡𝓮𝓶𝓬𝓸
-# Double struc: ℝ𝕖𝕞𝕔𝕠
-# ❤ 𝓜𝓪𝓪𝓻𝓽𝓳𝓮
+# Greek
+α	a
+β	b
+γ	g
+δ	de
+ε	ep
+η	et
+ι	io
+κ	k
+λ	l
+μ	m
+ν	n
+ξ	xe
+π	pi
+ρ	r
+σ	si
+ς	vs
+τ	ta
+θ	th
+υ	u
+φ	ph
+χ	ch
+ψ	ps
+ω	om
+Γ	G
+Δ	D
+Λ	L
+Θ	Th
+Ξ	X
+Π	Pi
+Σ	S
+Φ	Ph
+Ψ	Ps
+Ω	O
 
 # See http://en.wikipedia.org/wiki/Mathematical_alphanumeric_symbols
 # See also http://unicode.org/charts/case/chart_NoCaseMapping.html
@@ -554,74 +381,5 @@ n̈	"n
 # Bold Italic
 # See http://www.w3.org/TR/MathML2/bold-italic.html
 
-# Blackboard Bold
-# See http://www.w3.org/TR/MathML2/double-struck.html
-#	𝔸	𝔹	ℂ	𝔻	𝔼	𝔽	𝔾	ℍ	𝕀	𝕁	𝕂	𝕃	𝕄	ℕ	𝕆	ℙ
-#	ℚ	ℝ	𝕊	𝕋	𝕌	𝕍	𝕎	𝕏	𝕐	ℤ	𝕒	𝕓	𝕔	𝕕	𝕖	𝕗
-#	𝕘	𝕙	𝕚	𝕛	𝕜	𝕝	𝕞	𝕟	𝕠	𝕡	𝕢	𝕣	𝕤	𝕥	𝕦	𝕧
-#	𝕨	𝕩	𝕪	𝕫	𝟘	𝟙	𝟚	𝟛	𝟜	𝟝	𝟞	𝟟	𝟠	𝟡
-𝔸	BBA
-𝔹	BBB
-ℂ	CC
-𝔻	BBD
-𝔼	BBE
-𝔽	FF
-𝔾	BBG
-ℍ	HH
-𝕀	II
-𝕁	JJ
-𝕂	KK
-𝕃	BBL
-𝕄	MM
-ℕ	NN
-𝕆	BBO
-ℙ	PP
-ℝ	RR
-ℚ	QQ
-𝕊	BBS
-𝕋	TT
-𝕌	BBU
-𝕍	VV
-𝕎	WW
-𝕏	BBX
-𝕐	YY
-ℤ	ZZ
-
 # Caligraphic and script
 # See http://www.w3.org/TR/MathML2/script.html
-
-
-# Greek
-α	a
-β	b
-γ	g
-δ	de
-ε	ep
-η	et
-ι	io
-κ	k
-λ	l
-μ	m
-ν	n
-ξ	xe
-π	pi
-ρ	r
-σ	si
-ς	vs
-τ	ta
-θ	th
-υ	u
-φ	ph
-χ	ch
-ψ	ps
-ω	om
-Γ	G
-Δ	D
-Λ	L
-Θ	Th
-Ξ	X
-Π	Pi
-Σ	S
-Φ	Ph
-Ψ	Ps
-Ω	O

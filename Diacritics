@@ -1,0 +1,91 @@
+#
+# Diacritic latin
+#
+
+# Acute
+Á	'A 
+É	'E
+Í	'I
+Ó	'O
+Ú	'U
+Ý	'Y
+Ć	'C
+Ǽ	'AE
+Ǿ	'/O
+Ǵ	'G
+Ḱ	'K
+Ĺ	'L
+Ḿ	'M
+Ń	'N
+Ṕ	'P
+Ŕ	'R
+Ś	'S
+Ẃ	'W
+Ź	'Z
+á	'a 
+é	'e
+í	'i
+ó	'o
+ú	'u
+ý	'y
+ǽ	'ae
+ǿ	'/o
+ć	'c
+ǵ	'g
+ḱ	'k
+ĺ	'l
+ḿ	'm
+ń	'n
+ṕ	'p
+ŕ	'r
+ś	's
+ẃ	'w
+ź	'z
+
+# Grave
+À	`A
+È	`E
+Ì	`I
+Ǹ	`N
+Ò	`O
+Ù	`U
+Ẁ	`W
+Ỳ	`Y
+à	`a
+è	`e
+ì	`i
+ǹ	`n
+ò	`o
+ù	`u
+ẁ	`w
+ỳ	`y
+
+# Diaeresis (trema, umlaut)
+Ä	"A
+Ë	"E
+Ḧ	"H
+Ï	"I
+N̈	"N
+Ö	"O
+T̈	"T
+Ü	"U
+Ẅ	"W
+Ẍ	"X
+Ÿ	"Y
+ä	"a
+ë	"e
+ḧ	"h
+ï	"i
+n̈	"n
+ö	"o
+ẗ	"t
+ü	"u
+ẅ	"w
+ẍ	"x
+ÿ	"y
+
+# Other
+ô	^o
+ß	ss
+Č	vC
+ñ	~n
