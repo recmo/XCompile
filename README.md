@@ -13,7 +13,7 @@ Gets translated to
     <Multi_key> <apostrophe> <slash> <o> : "ǿ"
     <Multi_key> <slash> <equal> : "≠"
 
-Store this in your `~/.XCompose` file, specify the CapsLock key as your compose key. Now you can enter cool unicode characters such as ❤ and ⇆ and with the keystrokes <CapsLock> < 3 and <CapsLock> <left> <right>!
+Store this in your `~/.XCompose` file, specify the `CapsLock` key as your compose key. Now you can enter cool unicode characters such as ❤ and ⇆ and with the keystrokes `CapsLock` `<` `3` and `CapsLock` `left` `right`!
 
 How to use
 ----------
