@@ -84,6 +84,30 @@ n̈	"n
 ẍ	"x
 ÿ	"y
 
+# Ogonek
+Ą	cA
+Ę	cE
+Ǫ	cO
+Ų	cU
+Į	cI
+ą	ca
+ę	ce
+ǫ	co
+ų	cu
+į	ci
+
+# Cedilla
+Ç	5C
+ç	5c
+
+# Dot
+Ż	.Z
+ż	.z
+
+# Stroke
+Ł	/L
+ł	/l
+
 # Other
 ô	^o
 ß	ss
