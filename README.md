@@ -1,28 +1,30 @@
-XCompile
-========
+# XCompile
 
-Specify XCompose sequences in a simple language and compile them to .XCompose files
+Simply create compose key instructions for Linux and Mac.
 
 The compose sequences are specified by a Unicode characters, a tab and then the key sequence (using → ← ↑ ↓ for the arrow keys).
 
-    ǿ	`/o
-    ≠	/=
+```
+❤  <3
+⇆   ←→
+```
 
-Gets translated to
+Now you can enter cool unicode characters such as ❤ and ⇆ and with the keystrokes `CapsLock` `<` `3` and `CapsLock` `left` `right`!
 
-    <Multi_key> <apostrophe> <slash> <o> : "ǿ"
-    <Multi_key> <slash> <equal> : "≠"
+## How to use
 
-Store this in your `~/.XCompose` file, specify the `CapsLock` key as your compose key. Now you can enter cool unicode characters such as ❤ and ⇆ and with the keystrokes `CapsLock` `<` `3` and `CapsLock` `left` `right`!
+### Linux
 
-How to use
-----------
+```sh
+cat Diacritics Math Other | ./XCompile.py > ~/.XCompose && setxkbmap
+```
 
-The program `XCompile` translates between 
+Specify the `CapsLock` key as your compose key.
 
-    cat Diacritics Math Other | ./XCompile > ~/.XCompose && setxkbmap
+### Mac OS
 
+```sh
+cat Math Diacritics Other | ./KeyBindings.py > ~/Library/KeyBindings/DefaultKeyBinding.Dict
+```
 
-
-
-
+Mac doesn't have a concenpt of a compose key, so instead `F8` is used. You can use [Karabiner Elements](https://karabiner-elements.pqrs.org/) to remap `CapsLock` to `F8`.
