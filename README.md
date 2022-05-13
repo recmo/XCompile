@@ -33,7 +33,7 @@ Mac doesn't have a concenpt of a compose key, so instead `Ctrl-Opt-Cmd-F8` is us
 cp ./karabiner-compose.json ~/.config/karabiner/assets/complex_modifications/
 ```
 
-And enable the new rule in Karabiner preferences (Complex Modifications -> Rules -> Add Rule).
+And enable the new rule in Karabiner preferences (“Complex Modifications” → “Rules” → “Add Rule”).
 
 [Karabiner JSON doc](https://karabiner-elements.pqrs.org/docs/json/)
 

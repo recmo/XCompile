@@ -10,6 +10,7 @@ import sys
 compose = "^~@\\UF70B"
 
 # https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/EventOverview/TextDefaultsBindings/TextDefaultsBindings.html
+# https://developer.apple.com/documentation/appkit/nsstandardkeybindingresponding
 # http://xahlee.info/kbd/osx_keybinding_key_syntax.html
 # https://github.com/phracker/MacOSX-SDKs/blob/041600eda65c6a668f66cb7d56b7d1da3e8bcc93/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSEvent.h#L395
 substitutes = {
@@ -58,7 +59,11 @@ def print_sequence(sequence, indent=4):
             print(";")
         else:
             print(" " * indent, end="")
-            print(f'"{key}" = ("insertText:", "{sequence[key]}");')
+            # We could add `yank:` or `setMark:, swapWithMark:, deleteToMark:`
+            # to delete the selection before inserting the text, but that
+            # breaks VSCode. I have not found a way that doesn't break.
+            print(
+                f'"{key}" = (insertText:, "{sequence[key]}");')
     print(" " * (indent - 4), end="")
     print("}", end="")
 
