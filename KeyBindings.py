@@ -1,8 +1,13 @@
 #!/usr/bin/python3
 import sys
 
-# Assume Compose (i.e. caps lock) is remapped to F8:
-compose = "\\UF70B"
+# Assume Compose (i.e. caps lock) is remapped to Ctrl-Opt-Cmd-F8:
+# ~ ⌥ Option key
+# $ ⇧ Shift key
+# ^ ^ Control key
+# @ ⌘ Command key
+# #   keys on number pad
+compose = "^~@\\UF70B"
 
 # https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/EventOverview/TextDefaultsBindings/TextDefaultsBindings.html
 # http://xahlee.info/kbd/osx_keybinding_key_syntax.html

@@ -27,4 +27,13 @@ Specify the `CapsLock` key as your compose key.
 cat Math Diacritics Other | ./KeyBindings.py > ~/Library/KeyBindings/DefaultKeyBinding.Dict
 ```
 
-Mac doesn't have a concenpt of a compose key, so instead `F8` is used. You can use [Karabiner Elements](https://karabiner-elements.pqrs.org/) to remap `CapsLock` to `F8`.
+Mac doesn't have a concenpt of a compose key, so instead `Ctrl-Opt-Cmd-F8` is used. You can use [Karabiner Elements](https://karabiner-elements.pqrs.org/) to remap `CapsLock` to `Ctrl-Opt-Cmd-F8`. After installation, copy the rule file:
+
+```sh
+cp ./karabiner-compose.json ~/.config/karabiner/assets/complex_modifications/
+```
+
+And enable the new rule in Karabiner preferences (Complex Modifications -> Rules -> Add Rule).
+
+[Karabiner JSON doc](https://karabiner-elements.pqrs.org/docs/json/)
+

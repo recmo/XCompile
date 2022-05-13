@@ -1,0 +1,26 @@
+{
+    "title": "Caps Lock → Ctrl-Shift-Alt-F8",
+    "rules": [
+        {
+            "description": "Caps Lock → Ctrl-Cmd-Opt-F8",
+            "manipulators": [
+                {
+                    "from": {
+                        "key_code": "caps_lock"
+                    },
+                    "to": [
+                        {
+                            "key_code": "f8",
+                            "modifiers": [
+                                "left_command",
+                                "left_control",
+                                "left_option"
+                            ]
+                        }
+                    ],
+                    "type": "basic"
+                }
+            ]
+        }
+    ]
+}
